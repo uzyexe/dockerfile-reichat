@@ -12,7 +12,7 @@ reichat - A lovely paint chat application like a PaintChatApp built with Node.
 
 [**Trusted Build**](https://hub.docker.com/r/uzyexe/reichat/)
 
-This Docker image is based on the official [node:5.5.0-slim](https://hub.docker.com/_/node/) base image.
+This Docker image is based on the official [node:0.12.7-slim](https://hub.docker.com/_/node/) base image.
 
 ## How to use this image
 
