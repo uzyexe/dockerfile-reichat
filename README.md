@@ -1,3 +1,5 @@
+[![](https://badge.imagelayers.io/uzyexe/reichat:latest.svg)](https://imagelayers.io/?images=uzyexe/reichat:latest 'Get your own badge on imagelayers.io')
+
 # uzyexe/reichat  [![Circle CI](https://circleci.com/gh/uzyexe/dockerfile-reichat.svg?style=svg)](https://circleci.com/gh/uzyexe/dockerfile-reichat)
 
 This is reichat container.
