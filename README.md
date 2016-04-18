@@ -58,3 +58,11 @@ docker run -p 10133:10133 uzyexe/reichat
             --max-chat-log-count <value>
             --forwarded-header <value>
 ```
+
+# Authors
+
+* Shuji Yamada (<uzy.exe@gmail.com>)
+
+## License
+
+This project is licensed under the terms of the MIT license.
