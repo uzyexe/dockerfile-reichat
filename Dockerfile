@@ -1,6 +1,6 @@
 FROM node:0.12.7-slim
 
-ENV REICHAT_VERSION 0.0.34
+ENV REICHAT_VERSION 0.0.35
 
 RUN npm install -g reichat@${REICHAT_VERSION}
 
